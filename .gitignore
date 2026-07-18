@@ -1,0 +1,10 @@
+.obsidian/workspace*.json
+.obsidian/cache/
+.obsidian/workspace-mobile.json
+.trash/
+tmp/
+outputs/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
