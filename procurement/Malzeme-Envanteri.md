@@ -19,13 +19,13 @@ Bu notta malzeme listesindeki tum kalemler, alt sistem ve kullanim amacina gore 
 
 ## Itki
 
-| Malzeme | Adet | Nerede kullaniliyor | Amac | Link |
-|---|---:|---|---|---|
-| Mucif / Degz Mitras Su Alti Iticisi | 6 | Ana arac | 6 eksen hareket ve manevra | https://www.mucif.com/urunler/mitras-su-alti-iticisi/ |
-| Mucif / Degz Blu 30A ESC | 6 | Ana arac | Mitras thruster surme | https://www.mucif.com/urunler/degz-blu-30a-esc-fircasiz-motor-surucu/ |
-| Degz Blu 30A ESC | 4 | Mini ROV | Mini ROV motor surme | https://www.mucif.com/urunler/degz-blu-30a-esc-fircasiz-motor-surucu/ |
-| M1 Su Gecirmez Su Alti Motoru | 4 | Mini ROV | Mini ROV itki | https://www.mucif.com/urunler/degz-m1-su-gecirmez-su-alti-motoru/ |
-| Mitras Yuksek Guclu Pervane | 2 set | Mini ROV / itki grubu | Pervane/nozul seti | https://www.mucif.com/urunler/mitras-su-alti-itici-pervane/ |
+| Malzeme                             |  Adet | Nerede kullaniliyor   | Amac                       | Link                                                                  |
+| ----------------------------------- | ----: | --------------------- | -------------------------- | --------------------------------------------------------------------- |
+| Mucif / Degz Mitras Su Alti Iticisi |     6 | Ana arac              | 6 eksen hareket ve manevra | https://www.mucif.com/urunler/mitras-su-alti-iticisi/                 |
+| Mucif / Degz Blu 30A ESC            |     6 | Ana arac              | Mitras thruster surme      | https://www.mucif.com/urunler/degz-blu-30a-esc-fircasiz-motor-surucu/ |
+| Degz Blu 30A ESC                    |     4 | Mini ROV              | Mini ROV motor surme       | https://www.mucif.com/urunler/degz-blu-30a-esc-fircasiz-motor-surucu/ |
+| M1 Su Gecirmez Su Alti Motoru       |     4 | Mini ROV              | Mini ROV itki              | https://www.mucif.com/urunler/degz-m1-su-gecirmez-su-alti-motoru/     |
+| Mitras Yuksek Guclu Pervane         | 2 set | Mini ROV / itki grubu | Pervane/nozul seti         | https://www.mucif.com/urunler/mitras-su-alti-itici-pervane/           |
 
 ## Guc
 
