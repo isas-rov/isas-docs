@@ -30,3 +30,13 @@ Depo Obsidian kasası olarak açılabilir. Kişisel workspace ve cache dosyalar�
 ## Büyük Dosyalar
 
 PDF raporlar Git LFS ile izlenir. Harici yarışma kaynağı güncellenirse dosya adı, sürüm ve erişim tarihi ilgili notta belirtilmelidir.
+
+## ÇELEBİ–UMMAN Araştırma Bilgi Tabanı (2026-11-11)
+
+- [Genişletilmiş Obsidian teknik bilgi tabanı](knowledge-base/README.md): 2026 KTR kaynakları, BOM, kontrol, mekanik ve sorun/kanıt kayıtları
+- [Görsel belge atlası](knowledge-base/98-Gorseller/GORSEL-ATLAS.md): 30 KTR/şartname kaynak önizlemesi
+- [Görsel sistem mimarisi](knowledge-base/02-Sistem/GORSEL-MIMARI.md): Mermaid blok ve kontrol akışları
+- [Organizasyon depolarının durum karşılaştırması](knowledge-base/09-Degisiklikler/GUNCEL-REPO-DURUMU-2026-11-11.md)
+
+> [!IMPORTANT]
+> Bilgi tabanındaki 6 motor, 2026 KTR/bütçe konfigürasyonunu; 8 motor, yeni tasarım alternatifini gösterir. Teknik çizimler, test ve stok kanıtı olmadan üretime hazır kabul edilmez. Referans PDF sayfa görselleri onaylı tasarım değildir.

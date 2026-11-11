@@ -1,5 +1,10 @@
 # ISAS - Obsidian Ana Sayfa
 
+> [!TIP] 11 Kasım 2026 ek kaynaklar
+> [ÇELEBİ–UMMAN genişletilmiş araştırma kasası](knowledge-base/README.md) · [Görsel atlas](knowledge-base/98-Gorseller/GORSEL-ATLAS.md) · [Güncel repo karşılaştırması](knowledge-base/09-Degisiklikler/GUNCEL-REPO-DURUMU-2026-11-11.md)
+>
+> Bu ek arşiv 2026 rapor kayıtları ve yeni geliştirme fikirlerini ayırır. Aşağıdaki 6 thruster bilgisi **2026 kayıtlarına** aittir; 8 thruster henüz önerilen bir konfigürasyondur.
+
 Bu bilgi agaci, asagidaki kaynaklar temel alinarak hazirlandi:
 
 - `Umman-Malzeme-Listesi-Guncel.xlsx`
