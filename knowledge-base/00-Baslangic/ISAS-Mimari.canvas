@@ -1,0 +1,159 @@
+{
+  "nodes": [
+    {
+      "id": "start",
+      "type": "file",
+      "file": "00-Baslangic/ANA-SAYFA.md",
+      "x": 0,
+      "y": 0,
+      "width": 310,
+      "height": 170
+    },
+    {
+      "id": "system",
+      "type": "file",
+      "file": "02-Sistem/SISTEM-MIMARISI.md",
+      "x": 420,
+      "y": 0,
+      "width": 310,
+      "height": 170
+    },
+    {
+      "id": "elec",
+      "type": "file",
+      "file": "03-Elektronik/ELEKTRIK-ANA-SEMA.md",
+      "x": 830,
+      "y": -230,
+      "width": 310,
+      "height": 170
+    },
+    {
+      "id": "soft",
+      "type": "file",
+      "file": "04-Yazilim/KOR-UCUS-MIMARISI.md",
+      "x": 830,
+      "y": 0,
+      "width": 310,
+      "height": 170
+    },
+    {
+      "id": "mech",
+      "type": "file",
+      "file": "05-Mekanik/SEKIZ-MOTORLU-SASE.md",
+      "x": 830,
+      "y": 230,
+      "width": 310,
+      "height": 170
+    },
+    {
+      "id": "mini",
+      "type": "file",
+      "file": "02-Sistem/MINI-ROV.md",
+      "x": 420,
+      "y": 280,
+      "width": 310,
+      "height": 170
+    },
+    {
+      "id": "issues",
+      "type": "file",
+      "file": "06-Sorunlar/SORUN-KAYDI.md",
+      "x": 1240,
+      "y": 0,
+      "width": 310,
+      "height": 170
+    },
+    {
+      "id": "sources",
+      "type": "file",
+      "file": "01-Kaynaklar/KAYNAK-ENVANTERI.md",
+      "x": 0,
+      "y": -290,
+      "width": 310,
+      "height": 170
+    },
+    {
+      "id": "research",
+      "type": "file",
+      "file": "08-Referanslar/ACIK-KAYNAK-PROJELER.md",
+      "x": 420,
+      "y": -290,
+      "width": 310,
+      "height": 170
+    },
+    {
+      "id": "tests",
+      "type": "file",
+      "file": "07-Test/TEST-STRATEJISI.md",
+      "x": 1240,
+      "y": 230,
+      "width": 310,
+      "height": 170
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "start",
+      "fromSide": "right",
+      "toNode": "system",
+      "toSide": "left"
+    },
+    {
+      "id": "e2",
+      "fromNode": "sources",
+      "fromSide": "right",
+      "toNode": "research",
+      "toSide": "left"
+    },
+    {
+      "id": "e3",
+      "fromNode": "research",
+      "fromSide": "bottom",
+      "toNode": "system",
+      "toSide": "top"
+    },
+    {
+      "id": "e4",
+      "fromNode": "system",
+      "fromSide": "right",
+      "toNode": "soft",
+      "toSide": "left"
+    },
+    {
+      "id": "e5",
+      "fromNode": "system",
+      "fromSide": "right",
+      "toNode": "elec",
+      "toSide": "left"
+    },
+    {
+      "id": "e6",
+      "fromNode": "system",
+      "fromSide": "right",
+      "toNode": "mech",
+      "toSide": "left"
+    },
+    {
+      "id": "e7",
+      "fromNode": "system",
+      "fromSide": "bottom",
+      "toNode": "mini",
+      "toSide": "top"
+    },
+    {
+      "id": "e8",
+      "fromNode": "soft",
+      "fromSide": "right",
+      "toNode": "issues",
+      "toSide": "left"
+    },
+    {
+      "id": "e9",
+      "fromNode": "issues",
+      "fromSide": "bottom",
+      "toNode": "tests",
+      "toSide": "top"
+    }
+  ]
+}
