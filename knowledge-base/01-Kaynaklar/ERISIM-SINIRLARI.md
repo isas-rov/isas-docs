@@ -11,7 +11,7 @@ tags: [isas, umman, rov]
 
 Bu paket; **bu oturumda gerçekten erişilebilen 16 proje dosyasını**, `isas-rov/ISAS-yazilim` depodaki erişilebilir açık kodu ve geçmiş sohbetler için özetlenebilen teknik kararları temel alır.
 
-- Geçmiş sohbetlerin **tüm** resimlerinin ham dosyaları bu oturumun bağlı dosya kümesinde yok. Bu nedenle tamamı incelenmiş veya taşınmış gibi gösterilmez. İncelenen PDF sayfalarından seçilmiş önizlemeler `98-Gorseller` altına eklenmiştir.
+- Geçmiş sohbetlerin **tüm** resimlerinin ham dosyaları mevcut değildir. Ancak `CELEBI_UMMAN_Gorsel_Arsivi_Kismi.zip` açılarak **3 özgün PNG** doğrulandı ve [sohbet görsel arşivine](../98-Gorseller/SOHBET-GORSELLERI.md) eklendi. Kaynak manifestte **2 görsel erişilemez** olarak kalmaktadır. PDF sayfa önizlemeleri bu orijinallerden ayrı sınıflandırılmıştır.
 - Daha önce gönderilmiş ancak bu oturuma bağlı olmayan `1-KTR.pdf`, `Celebi_Umman_KTR_4_3_4_4_Detayli_Taslak-1.docx`, eski CAD/KiCad dosyaları ve fotoğrafların birebir içeriklerine ulaşılamadı.
 - `isas-doc` adıyla yapılan eski erişim araması başarısızdı. **11 Kasım 2026** itibarıyla güncel repo `isas-rov/isas-docs` olarak doğrulandı; ayrıca `isas-hardware` ve `isas-software` depoları erişilebilir. Eski araştırmada incelenen `ISAS-yazilim` bağımsız eski bir koddur.
 - Hiçbir fiziksel bağlantı için nihai pin/delik numarası veya satıcı doğrulanmış IP68 derinlik sertifikası yok. Şema **kavramsal mühendislik taslağıdır**, kablo kesip lehimlenecek nihai çizim değildir.

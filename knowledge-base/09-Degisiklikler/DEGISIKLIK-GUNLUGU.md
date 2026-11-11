@@ -41,3 +41,10 @@ tags: [isas, umman, rov]
 - Kaynak–iddia eşleştirmesi, test kanıtı rehberi ve QA raporu eklendi.
 - GitHub kopyasındaki wiki bağlantıları taşınabilir Markdown bağlantısına dönüştürüldü.
 - `isas-doc` görünürlüğü ve yetkisiz yazma durumu çözüldü diye işaretlenmedi.
+
+## Revizyon 3 — 11 Kasım 2026: doğru organizasyon deposuna aktarım
+
+- Hedef repo `isas-rov/isas-docs` olarak doğrulandı; ilk görsel bilgi tabanı [PR #1](https://github.com/isas-rov/isas-docs/pull/1) ile `main` dalına birleştirildi (`77e1dab0`).
+- `CELEBI_UMMAN_Gorsel_Arsivi_Kismi.zip` açıldı ve manifestindeki **3/5 özgün PNG** doğrulandı. 2 görselin baytları hâlâ erişilemiyor.
+- [Sohbet görsel arşivi](../98-Gorseller/SOHBET-GORSELLERI.md) eklendi; üç diyagram **tarihsel kavramsal** örnek olarak etiketlendi. Özellikle 6 motorlu Pixhawk 2.8 güç şeması 8 motorlu güncel araç veya onaylı KiCad şeması değildir.
+- Orijinal ZIP ile üç görselin [Drive klasörü](https://drive.google.com/drive/folders/1kAcrS5qfPCZDV5Op6wNRkgH8xQ3vrRB4) oluşturuldu.
