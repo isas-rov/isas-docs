@@ -23,6 +23,7 @@ tags: [isas, umman, rov]
 - [Orijinal dosyalar ve kaynak envanteri](01-Kaynaklar/KAYNAK-ENVANTERI.md)
 - [Kaynak–iddia eşleştirmesi](01-Kaynaklar/KANIT-VE-KAYNAK-ESLESTIRMESI.md)
 - [Görsel atlas ve seçilmiş sayfalar](98-Gorseller/GORSEL-ATLAS.md)
+- [Sohbetten gelen 3 özgün teknik çizim (tarihsel konseptler)](98-Gorseller/SOHBET-GORSELLERI.md)
 - [Geçmiş sohbetlerde konuşulan teknik fikirler](01-Kaynaklar/SOHBET-KARARLARI-ZAMAN-CIZELGESI.md)
 - [Ana ROV / Mini ROV / yer istasyonu](02-Sistem/SISTEM-MIMARISI.md)
 - [Elektrik güç ve haberleşme şeması (kavramsal)](03-Elektronik/ELEKTRIK-ANA-SEMA.md)
@@ -48,4 +49,4 @@ tags: [isas, umman, rov]
 - [Teknik boşluklar / öncelikli kanıt ihtiyacı](06-Sorunlar/KANIT-EKSIKLERI-2026-11-11.md)
 
 > [!NOTE] Geçmiş sohbet görsel ZIP'i
-> `CELEBI_UMMAN_Gorsel_Arsivi_Kismi.zip` isimli ayrı çalışma bulunmuş olsa da bu derlemede ham içeriğine erişilemedi. Görsellerin tamamı aktarıldı iddiası yoktur. Bu klasördeki görseller **mevcut PDF'lerden alınmış sayfa önizlemeleri**dir.
+> `CELEBI_UMMAN_Gorsel_Arsivi_Kismi.zip` dosyası açıldı: 5 kayıtlı görselin 3 özgün PNG dosyası [Sohbet Görselleri](98-Gorseller/SOHBET-GORSELLERI.md) sayfasında yayımlandı. Diğer 2 görsel dosyası ZIP içinde yok. PDF görselleri ise ayrı kaynak önizlemeleridir.

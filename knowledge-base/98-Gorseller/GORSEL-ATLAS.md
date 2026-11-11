@@ -8,9 +8,9 @@ tags: [isas, gorsel, pdf, referans]
 # Görsel kaynak atlası
 
 > [!NOTE] Kaynak durumu
-> Bu resimler KTR ve şartname PDF'lerinin **mevcut kopyalarından** alınmış sayfa önizlemeleridir. Mühendislik çizimi veya onaylı üretim şeması sayılmaz. Tam çözünürlük ve bağlam için orijinal PDF'yi açın. Başka sohbet görsel ZIP'i bu pakete alınamamıştır.
+> Bu resimler KTR ve şartname PDF'lerinin **mevcut kopyalarından** alınmış sayfa önizlemeleridir. Mühendislik çizimi veya onaylı üretim şeması sayılmaz. Tam çözünürlük ve bağlam için orijinal PDF'yi açın. Ayrıca [sohbetlerde üretilmiş 3 orijinal PNG kavram diyagramı](SOHBET-GORSELLERI.md) ayrı kaydedilmiştir; bunlar üretim şeması değildir.
 
-[← Bilgi tabanı giriş](../README.md) · [Sistem şeması](../02-Sistem/GORSEL-MIMARI.md) · [Kaynak envanteri](../01-Kaynaklar/KAYNAK-ENVANTERI.md)
+[← Bilgi tabanı giriş](../README.md) · [Sohbet diyagramları: 3 PNG](SOHBET-GORSELLERI.md) · [Sistem şeması](../02-Sistem/GORSEL-MIMARI.md) · [Kaynak envanteri](../01-Kaynaklar/KAYNAK-ENVANTERI.md)
 
 ## Seçilmiş sayfalar (17)
 

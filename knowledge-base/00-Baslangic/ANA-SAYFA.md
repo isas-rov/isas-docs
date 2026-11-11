@@ -26,7 +26,7 @@ flowchart TD
 
 ## 2. Bilgi alanları
 
-> [!TIP] [Görsel atlas](../98-Gorseller/GORSEL-ATLAS.md) ile kaynak sayfalarını inceleyin; [mimari akış](../02-Sistem/GORSEL-MIMARI.md) motor/sensör ilişkilerini açıklıyor.
+> [!TIP] [Görsel atlas](../98-Gorseller/GORSEL-ATLAS.md) ve [sohbet diyagramları](../98-Gorseller/SOHBET-GORSELLERI.md) ile kaynakları inceleyin; [mimari akış](../02-Sistem/GORSEL-MIMARI.md) motor/sensör ilişkilerini açıklıyor.
 
 
 | Alan | Giriş | Kanıt |
